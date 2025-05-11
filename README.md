@@ -4,3 +4,5 @@ This repo contains :
 - Task A can be found in Submission.ipynb
 - For task B, just run benchmark.py and it should produce plot with 3 differents reconstruction method.
 - Task C in deliverable_plots/plotter.ipynb
+
+In image folder we have many more plots
